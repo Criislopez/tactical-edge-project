@@ -18,7 +18,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
       <div className="container flex items-center justify-between h-16 md:h-20">
         <Link to="/" className="font-heading text-xl md:text-2xl font-bold uppercase tracking-widest text-accent">
-          TÁCTICA
+          CIVIL TÁCTICO
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">
